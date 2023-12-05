@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace = "com.example.examen_casero_alvarez_claudia"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.examen_casero_alvarez_claudia"
